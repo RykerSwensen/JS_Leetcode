@@ -1,0 +1,6 @@
+Have the function AlphabetSoup(str) take the str parameter being
+passed and return the string with the letters in alphabetical order. 
+
+hello = ehllo
+
+Assume numbers and punctuation sybmols will not be included in the string. 
